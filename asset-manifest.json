@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smile-and-wave/static/css/main.9fe94130.css",
+    "main.js": "/smile-and-wave/static/js/main.625db94b.js",
+    "index.html": "/smile-and-wave/index.html",
+    "main.9fe94130.css.map": "/smile-and-wave/static/css/main.9fe94130.css.map",
+    "main.625db94b.js.map": "/smile-and-wave/static/js/main.625db94b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe94130.css",
+    "static/js/main.625db94b.js"
+  ]
+}
