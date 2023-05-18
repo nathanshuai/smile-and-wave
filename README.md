@@ -1,6 +1,7 @@
-### Todo list
 
-# Click [here]() to make a Todo list.
+### Smile N Wave
+
+# Click [here](https://nathanshuai.github.io/smile-and-wave/) to check the magic of smile and wave.
 
 <br />
 

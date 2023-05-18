@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/todo-list/static/css/main.edf20992.css",
-    "main.js": "/todo-list/static/js/main.f10efd7a.js",
-    "index.html": "/todo-list/index.html",
-    "main.edf20992.css.map": "/todo-list/static/css/main.edf20992.css.map",
-    "main.f10efd7a.js.map": "/todo-list/static/js/main.f10efd7a.js.map"
+    "main.css": "/smile-and-wave/static/css/main.9fe94130.css",
+    "main.js": "/smile-and-wave/static/js/main.625db94b.js",
+    "index.html": "/smile-and-wave/index.html",
+    "main.9fe94130.css.map": "/smile-and-wave/static/css/main.9fe94130.css.map",
+    "main.625db94b.js.map": "/smile-and-wave/static/js/main.625db94b.js.map"
   },
   "entrypoints": [
-    "static/css/main.edf20992.css",
-    "static/js/main.f10efd7a.js"
+    "static/css/main.9fe94130.css",
+    "static/js/main.625db94b.js"
   ]
 }
