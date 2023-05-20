@@ -41,12 +41,11 @@ header {
 }
 
 .banner {
-    background-image: url(https://github.com/nathanshuai/cdn/blob/main/banner/anshita-nair-0rxLLHD1XxA-unsplash.jpg?raw=true);
+    background-image: url(https://github.com/nathanshuai/cdn/blob/main/banner/monica-garniga-XClNDg9Z9Ag-unsplash.jpg?raw=true);
     background-position: fixed;
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
-    border-radius: 6px;
     height: calc(100vh - 50px);
 }
 
@@ -55,7 +54,7 @@ header {
     font-size: 32px;
     font-weight: 700;
     text-transform: uppercase;
-    
+    color: #fff;
   }
 
 .banner p {

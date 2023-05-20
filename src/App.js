@@ -33,8 +33,8 @@ return (
     <>
     <Header title={title} navigation={navigation}/>
     <main>
+      <Banner />
       <div className="container">
-        <Banner />
         <Gallery imgs={imgs}/>
       </div>
     </main>
