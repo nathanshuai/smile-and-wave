@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/smile-and-wave/static/css/main.61d13274.css",
+    "main.css": "/smile-and-wave/static/css/main.043901a6.css",
     "main.js": "/smile-and-wave/static/js/main.2a618020.js",
     "index.html": "/smile-and-wave/index.html",
-    "main.61d13274.css.map": "/smile-and-wave/static/css/main.61d13274.css.map",
+    "main.043901a6.css.map": "/smile-and-wave/static/css/main.043901a6.css.map",
     "main.2a618020.js.map": "/smile-and-wave/static/js/main.2a618020.js.map"
   },
   "entrypoints": [
-    "static/css/main.61d13274.css",
+    "static/css/main.043901a6.css",
     "static/js/main.2a618020.js"
   ]
 }
